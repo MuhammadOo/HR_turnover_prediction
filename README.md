@@ -1,6 +1,5 @@
 # HR_turnover_prediction
-You are data scientist working in HR Department. Based on employee statistics, you
-have to build Machine Learning model which will predict employee turnover by applying the following
+Building Machine Learning model which will predict employee turnover by applying the following
 steps:
 1. Split data into train and test sets using seed=123 within h2o framework;
 2. Build classification model with h2o.automl();
